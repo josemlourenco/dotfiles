@@ -1,0 +1,4 @@
+gitConfig:
+    alias.st: status
+    alias.cm: commit
+    alias.ck: checkout
